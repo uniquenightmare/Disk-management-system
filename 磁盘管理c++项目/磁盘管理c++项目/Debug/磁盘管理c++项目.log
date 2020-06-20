@@ -1,0 +1,21 @@
+﻿生成启动时间为 2020/6/20 12:19:30。
+     1>项目“F:\bite homework\C语言进阶\磁盘管理c++项目\磁盘管理c++项目\磁盘管理c++项目.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt FileManger.h fileManger.cpp
+         fileManger.cpp
+         FileManger.h
+         正在生成代码...
+       Link:
+         D:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\bite homework\C语言进阶\磁盘管理c++项目\Debug\磁盘管理c++项目.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\bite homework\C语言进阶\磁盘管理c++项目\Debug\磁盘管理c++项目.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\bite homework\C语言进阶\磁盘管理c++项目\Debug\磁盘管理c++项目.lib" /MACHINE:X86 Debug\FileManger.obj
+         Debug\fileManger.obj
+         Debug\fileutil.obj
+         Debug\md5.obj
+         Debug\testcpp.obj
+         LINK : 没有找到 F:\bite homework\C语言进阶\磁盘管理c++项目\Debug\磁盘管理c++项目.exe 或上一个增量链接没有生成它；正在执行完全链接
+     1>Debug\fileManger.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+         磁盘管理c++项目.vcxproj -> F:\bite homework\C语言进阶\磁盘管理c++项目\Debug\磁盘管理c++项目.exe
+     1>已完成生成项目“F:\bite homework\C语言进阶\磁盘管理c++项目\磁盘管理c++项目\磁盘管理c++项目.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.79
