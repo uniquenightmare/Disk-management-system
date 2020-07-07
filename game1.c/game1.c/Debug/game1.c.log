@@ -1,0 +1,16 @@
+﻿生成启动时间为 2020/7/7 21:09:19。
+     1>项目“F:\bite homework\c语言初级\game1.c\game1.c\game1.c.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt game.c test.c
+         test.c
+         game.c
+         正在生成代码...
+       Link:
+         D:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\bite homework\c语言初级\game1.c\Debug\game1.c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\bite homework\c语言初级\game1.c\Debug\game1.c.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\bite homework\c语言初级\game1.c\Debug\game1.c.lib" /MACHINE:X86 Debug\game.obj
+         Debug\test.obj
+         game1.c.vcxproj -> F:\bite homework\c语言初级\game1.c\Debug\game1.c.exe
+     1>已完成生成项目“F:\bite homework\c语言初级\game1.c\game1.c\game1.c.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.81
